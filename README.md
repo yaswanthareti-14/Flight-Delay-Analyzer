@@ -81,6 +81,27 @@ This page focuses on detailed delay insights and operational breakdown.
 
 ---
 
+# 📂 Dataset
+
+The dataset contains airline operational data including:
+
+- Flight Date
+- Airline
+- Origin Airport
+- Destination Airport
+- Arrival Delay
+- Delay Due to Carrier
+- Delay Due to Weather
+- Delay Due to NAS
+- Delay Due to Security
+- Cancellation Status
+- Diversion Status
+- Ticket Price (if simulated)
+
+Dataset Format: CSV
+
+---
+
 # 🛠 Tools & Technologies Used
 
 - Power BI
